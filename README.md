@@ -82,3 +82,5 @@ Start the React frontend:
 npm start
 
 Frontend runs at: http://localhost:3000 (or Vite URL if using Vite)
+
+ <img width="962" height="692" alt="Screenshot 2025-11-02 174936" src="https://github.com/user-attachments/assets/0de4e653-4898-44b6-a6de-615109073d7b" />
