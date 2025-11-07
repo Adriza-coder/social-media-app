@@ -2,7 +2,7 @@ MySocialApp 🌐
 
 A modern MERN (MongoDB, Express, React, Node.js) social media web application with real-time comments, likes, and image uploads.
 
-Built with React, TailwindCSS, Socket.io, and JWT authentication.
+Built with React,CSS, Socket.io, and JWT authentication.
 
 Features ✨
 
@@ -36,10 +36,10 @@ Responsive and beautiful UI using TailwindCSS 🎨
 ### 🧑‍💻 Profile Page
 - View your own posts
 - See likes and upload time
-- Clean user interface with React + TailwindCSS
+- Clean user interface with React + CSS
 
 ### ⚙️ Tech Stack
-- **Frontend:** React (Vite), Tailwind CSS, Axios  
+- **Frontend:** React (Vite), CSS, Axios  
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB Atlas  
 - **Real-time:** Socket.io  
@@ -48,7 +48,7 @@ Responsive and beautiful UI using TailwindCSS 🎨
 
 - | Frontend            | Backend           | Database      | Real-time Communication |
 | ------------------- | ----------------- | ------------- | ----------------------- |
-| React + TailwindCSS | Node.js + Express | MongoDB Atlas | Socket.io               |
+| React + CSS | Node.js + Express | MongoDB Atlas | Socket.io               |
 
 
 Installation & Setup 🏗️
